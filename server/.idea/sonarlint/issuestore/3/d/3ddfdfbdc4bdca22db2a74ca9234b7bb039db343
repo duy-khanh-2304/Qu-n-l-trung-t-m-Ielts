@@ -1,0 +1,15 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®øİùşÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(‹ü½Ü8¾“¿Ÿ­0
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(§Şˆ†ıÿÿÿÿ
+B
+java:S1602>",Remove useless curly braces around statement(€ù®¤
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(§Şˆ†ıÿÿÿÿ8àÊô­0
+B
+java:S1602W",Remove useless curly braces around statement(€ù®¤
+B
+java:S1602o",Remove useless curly braces around statement(€ù®¤
+g
+java:S1128"ERemove this unused import 'com.example.be.repository.BaseRepository'.(³ ¨÷ùÿÿÿÿ8°³˜ ­0
+S
+java:S1128	"6Remove this unused import 'com.example.be.util.Utils'.(×ë²¹8°³˜ ­0

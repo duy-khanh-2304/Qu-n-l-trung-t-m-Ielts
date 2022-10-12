@@ -1,0 +1,7 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®øÝùþÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(Â§ž™8Î´š ­0
+I
+java:S1602>",Remove useless curly braces around statement(€ù®¤8‚º©ú¬0
+:
+java:S1128"Remove this duplicated import.(ßô³S8äÂªú¬0
